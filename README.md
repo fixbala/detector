@@ -1,0 +1,1 @@
+Este chatbot es una aplicación de procesamiento de lenguaje natural diseñada para interactuar de manera conversacional con usuarios. Está chat fue desarrollado en Python, aprovechando bibliotecas como TensorFlow y pandas  para implementar redes neuronales recurrentes.  
